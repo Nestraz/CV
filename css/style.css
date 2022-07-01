@@ -13,3 +13,15 @@ img{
     max-width: 950px;
     margin: auto;
 }
+body{
+    background-color: antiquewhite;
+}
+header{
+    background-color: white;
+}
+main{
+    background-color: white;
+}
+img{
+    float:right;
+}
