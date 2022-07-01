@@ -9,3 +9,7 @@ span{
 img{
     max-width: 128px ;
 }
+.max-width{
+    max-width: 950px;
+    margin: auto;
+}
