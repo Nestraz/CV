@@ -6,4 +6,4 @@ const burgerButton = document.querySelector('.navbar-burger')
 //ajouter un ecouteur d'événement 
 burgerButton.addEventListener('click , event => {
     console.log('Clic sur le boutton')
-}) 
+})
