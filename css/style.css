@@ -6,3 +6,6 @@
 span{
     display: block ;
 }
+img{
+    max-width: 128px ;
+}
